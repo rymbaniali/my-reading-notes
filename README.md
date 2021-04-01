@@ -22,7 +22,7 @@
 |  class-03    | [class-03](201/class-03.md)                      |
 |  class-04    | [class-04](201/class-04.md)                      |
 |  class-05    | [class-05](201/class-05.md)                      |
-|  read6       | [read6](201/read6.md)                            |
+|  class-06    | [class-06](201/class-06.md)                      |
 |  read7       | [read7](201/read7.md)                            |
 |  read8       | [read8](201/read8.md)                            |
 |  read9       | [read9](201/read9.md)                            |
