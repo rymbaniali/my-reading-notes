@@ -27,7 +27,7 @@
 |  class-08    | [class-08](201/class-08.md)                      |
 |  class-09    | [class-09](201/class-09.md)                      |
 |  class-10    | [class-10](201/class-10.md)                      |
-|  read11      | [read11](201/read11.md)                          |
+|  class-11    | [class-11](201/class-11.md)                      |
 |  read12      | [read12](201/read12.md)                          |
 |  read13      | [read13](201/read13.md)                          |
 |  read14      | [read14](201/read14.md)                          |
