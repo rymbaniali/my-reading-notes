@@ -29,6 +29,6 @@
 |  class-10    | [class-10](201/class-10.md)                      |
 |  class-11    | [class-11](201/class-11.md)                      |
 |  class-12    | [class-12](201/class-12.md)                      |
-|  read13      | [read13](201/read13.md)                          |
-|  read14      | [read14](201/read14.md)                          |
+|  class-13    | [class-13](201/class-13.md)                      |
+|  class-13b   | [class-13b](201/class-13b.md)                    |
 |  read15      | [read15](201/read15.md)                          |
