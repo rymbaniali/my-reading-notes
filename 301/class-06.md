@@ -21,3 +21,22 @@
 
 8.What is node used for?
 	Installing (via npm) and running (via Node) various build tools — designed to automate the process of developing a modern JavaScript application.
+
+
+
+
+9.What are the 6 reasons for pair programming?
+	1. Greater efficiency
+	2. Engaged collaboration
+	3. Learning from fellow students
+	4. Social skills
+	5. Job interview readiness
+	6. Work environment readiness 
+
+
+10.In your experience, which of these reasons have you found most beneficial?
+	Greater efficiency and  Learning from fellow students
+	
+
+11.How does pair programming work?
+	pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. one as navigator and the other as driver.
